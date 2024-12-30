@@ -1,6 +1,6 @@
 ## Oi! eu sou o João!👋
 
-- 💻 Hoje eu trabalho como Analista de suporte.
+- 💻 Hoje eu trabalho como PJ.
 - 📖 Atualmente estudo ReactJS, React.Native, NodeJS, Flutter, typescript. 
 
 
