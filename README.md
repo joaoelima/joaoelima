@@ -1,8 +1,5 @@
 ## Oi! eu sou o João!👋
 
-- 💻 Hoje eu trabalho como PJ.
-- 📖 Atualmente estudo ReactJS, React Native, NodeJS, Flutter, Typescript.
-
 ---
 
 ### 🚀 Tecnologias que uso
