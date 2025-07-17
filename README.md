@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320" alt="Dev Coding Gif"/>
+</p>
+
 <h1 align="center">👋 Olá, eu sou João</h1>
 
 <p align="center">
