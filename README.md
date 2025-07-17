@@ -6,7 +6,7 @@
 
 ## 🚀 Linguagens e Tecnologias que domino
 
-[![Minhas Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,reactnative,html,css,mongodb)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,html,css,mongodb)](https://skillicons.dev)
 <br><br>
 
 ## 🛠️ Ferramentas e Plataformas
