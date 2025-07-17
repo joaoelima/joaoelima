@@ -11,7 +11,7 @@
 
 ## 🛠️ Ferramentas e Plataformas
 
-[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github,bootstrap)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 <br><br>
 
 ## 📫 Contato
