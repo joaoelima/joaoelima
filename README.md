@@ -25,7 +25,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/oTuc4no)](https://x.com/oTuc4no)  
 <br><br>
 
-![JoaoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoelima&show_icons=true&theme=radical)
+![JoaoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoelima&show_icons=true&theme=radical)<br><br>
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoelima&layout=compact&langs_count=8&theme=radical)
 
 
