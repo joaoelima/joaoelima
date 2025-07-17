@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320" alt="Dev Coding Gif"/>
+  <img src="https://i.ibb.co/rw3vTYS/dev-banner.gif" width="100%" alt="Banner Developer"/>
 </p>
+
 
 <h1 align="center">👋 Olá, eu sou João</h1>
 
