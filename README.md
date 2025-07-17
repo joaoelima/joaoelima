@@ -16,7 +16,7 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-joao.seuemail@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.seuemail@gmail.com)](mailto:joao.seuemail@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaoedulima@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.seuemail@gmail.com)](mailto:joao.seuemail@gmail.com)
 [![Linkedin: João](https://img.shields.io/badge/-joaodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaodev/)](https://www.linkedin.com/in/joaodev/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/seutwitter?style=social)](https://twitter.com/seutwitter)  
 <br><br>
