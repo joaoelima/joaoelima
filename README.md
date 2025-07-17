@@ -21,7 +21,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/oTuc4no)](https://x.com/oTuc4no)  
 <br><br>
 
-![JoaoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDev&show_icons=true&theme=radical)
+![JoaoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoelima_icons=true&theme=radical)
 
 ---
 
